@@ -2,7 +2,6 @@
 
 > 输入 GitHub 仓库地址 / 本地路径，自动还原成完整设计文档
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
 **Repo Reverse** 对任意代码仓库进行深度逆向工程，生成一份涵盖架构、模块、数据库、部署、Bug、安全、改进建议的完整 HTML 报告。
@@ -129,8 +128,3 @@ repo-reverse/
 - [Anthropic Claude API](https://console.anthropic.com)（可选，用于 AI 分析）
 - Git（用于克隆远程仓库）
 
----
-
-## License
-
-MIT © 2025
