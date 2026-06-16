@@ -36,7 +36,7 @@
 ### 1. 安装依赖
 
 ```bash
-git clone https://github.com/xxxxjr/repo-reverse.git
+git clone https://github.com/xxxxxjr/repo-reverse.git
 cd repo-reverse
 pip install -r requirements.txt
 ```
